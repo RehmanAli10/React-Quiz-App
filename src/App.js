@@ -3,7 +3,7 @@ import Header from "./StartScreen/Header";
 import StartContent from "./StartScreen/StartContent";
 import Loader from "./components/Loader";
 import Error from "./components/Error";
-import Questions from "./Questions/Questions";
+import Questions from "./QuestionsList/Questions";
 import NextButton from "./components/NextButton";
 import Main from "./components/Main";
 import Progress from "./components/Progress";
